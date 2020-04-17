@@ -1,0 +1,22 @@
+Desafio 2: Datasheet
+
+Encontre o datasheet do componente de código QRE1113 da marca FairChild e encontre as
+seguintes informações:
+
+https://www.sparkfun.com/datasheets/Robotics/QR_QRE1113.GR.pdf
+
+● Temperatura de operação: de -40ºC a 85ºC
+
+● Potência dissipada do sensor: 50mW
+
+● Corrente no coletor: 20mA
+
+● Tensão máxima de entrada: 1.6V
+
+● Dimensões do sensor: 
+	Altura: 0.60mm 
+	Largura: 4.80mm
+	Comprimento: 3.60mm
+
+● Corrente normalizada no coletor quando a distância entre o sensor e o objeto é
+3mm (use as informações dos gráficos): 0.2mA

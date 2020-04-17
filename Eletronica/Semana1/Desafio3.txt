@@ -1,0 +1,12 @@
+Desafío 3: Sensores
+
+Busque na internet um tipo de sensor e em seguida escreva sobre seu funcionamento e
+exemplos de uso.
+Obs: tente escolher um sensor que acha que seria útil para um robô da TT
+
+Sensor escolhido: Sharp GP2Y0E03
+
+Datasheet: http://www.socle-tech.com/doc/IC%20Channel%20Product/Sensors/Distance%20Measuring%20Sensor/Analog%20Out(Including%20I2C%20output)/gp2y0e03_e.pdf
+
+	O Sharp GP2Y0E03 é um detector de proximidade, sua maior utilização em equipes de robótica é no Mini Sumô, para detectar a variação de distância do robô adversário.
+	Esses sensor possui LED infravermelho e sensor de imagem CMOS com circuito de processamento de sinal embutido, sendo um circuito transmissor e um receptor, posicionados um ao lado do outro. Quando um objeto passa em frente ao sensor o sinal infravermelho é refletido e detectado pelo receptor. A faixa de medição de distância é de 4 a 50cm, sendo assim, um sensor de alta precisão. Podendo ser utilizado tanto de forma digital quanto de forma analógica.
